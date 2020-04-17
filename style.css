@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: 'Josefin Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  background-color: #ffffff;
+}
+
+body {
+  max-width: 768px;
+  margin: auto;
+  padding: 2em;
+}
+
+.hero-img {
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+  width: 100%;
+}
+
+.intro-container {
+  margin: 2em 0;
+}
+
+.intro-container p {
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
+.solutions-container h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.solutions-container ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.solutions-container ul li {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  border-radius: 10px;
+  max-width: 49%;
+  overflow: hidden;
+  position: relative;
+  transition: 0.5s all;
+}
+
+.solutions-container ul li:hover {
+  transform: scale(1.01);
+}
+
+.solutions-container ul li img {
+  width: 100%;
+}
+
+.solutions-container ul li .text-container {
+  padding: 0.5em 1em 1em;
+}
+
+.solutions-container ul li .link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: transparent;
+}
