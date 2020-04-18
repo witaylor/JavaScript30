@@ -9,3 +9,4 @@ These are JavaScript challenges, not CSS, so most of the solutions may not respo
 
 1. [Drum Kit](./solutions/day-one/index.html)
 1. [Clock](./solutions/day-two/index.html)
+1. [CSS Variables with JS](./solutions/day-two/index.html)
