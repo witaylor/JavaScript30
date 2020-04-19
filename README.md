@@ -6,6 +6,7 @@ JavaScript 30 is a challenge by [@WesBos](https://twitter.com/wesbos). You can f
 These are JavaScript challenges, not CSS, so most of the solutions may not respond well to mobile screens.
 
 ## My Solutions
+Use the list below to see the code, or [click here](https://witaylor.github.io/JavaScript30) to see the output.
 
 1. [Drum Kit](./solutions/day-one/index.html)
 1. [Clock](./solutions/day-two/index.html)
