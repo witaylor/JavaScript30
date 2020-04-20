@@ -12,3 +12,4 @@ Use the list below to see the code, or [click here](https://witaylor.github.io/J
 1. [Clock](./solutions/day-two/index.html)
 1. [CSS Variables with JS](./solutions/day-three/index.html)
 1. [Array Cardio Day One](./solutions/day-four/index.html)
+1. [Flex Panel Gallery](./solutions/day-five/index.html)
