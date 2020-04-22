@@ -9,7 +9,8 @@
 
 html,
 body {
-  font-family: 'Josefin Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Josefin Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+    'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 16px;
   background-color: #ffffff;
 }
@@ -28,7 +29,7 @@ body {
 }
 
 .intro-container {
-  margin: 2em 0;
+  /* margin: 2em 0; */
 }
 
 .intro-container p {
@@ -36,8 +37,16 @@ body {
   line-height: 1.5em;
 }
 
+.intro-container > p {
+  margin: 2em 0;
+}
+
 .intro-container a {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, rgb(255, 201, 65) 50%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 50%,
+    rgb(255, 201, 65) 50%
+  );
   color: black;
   padding: 0 0.2em;
   text-decoration: none;
@@ -52,7 +61,7 @@ body {
   padding: 1em;
   background-color: rgb(224, 224, 224);
   border-radius: 10px;
-  margin: 1em 0;
+  margin-bottom: 2.5em;
 
   display: flex;
 }
