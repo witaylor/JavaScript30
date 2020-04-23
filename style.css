@@ -29,12 +29,16 @@ body {
 }
 
 .intro-container {
-  margin: 2em 0;
+  /* margin: 2em 0; */
 }
 
 .intro-container p {
   font-size: 1.2em;
   line-height: 1.5em;
+}
+
+.intro-container > p {
+  margin: 2em 0;
 }
 
 .intro-container a {
@@ -57,7 +61,7 @@ body {
   padding: 1em;
   background-color: rgb(224, 224, 224);
   border-radius: 10px;
-  margin: 1em 0;
+  margin-bottom: 2.5em;
 
   display: flex;
 }
