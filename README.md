@@ -15,3 +15,4 @@ Use the list below to see the code, or [click here](https://witaylor.github.io/J
 1. [Array Cardio Day One](./solutions/day-four/index.html)
 1. [Flex Panel Gallery](./solutions/day-five/index.html)
 1. [Type Ahead](./solutions/day-six/index.html)
+1. [Array Cardio Day Two](./solutions/day-seven/index.html)
