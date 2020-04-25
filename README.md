@@ -16,4 +16,8 @@ Use the list below to see the code, or [click here](https://witaylor.github.io/J
 1. [Flex Panel Gallery](./solutions/day-five/index.html)
 1. [Type Ahead](./solutions/day-six/index.html)
 1. [Array Cardio Day Two](./solutions/day-seven/index.html)
+<<<<<<< HEAD
 1. [Dev Tools Domination](./solutions/day-nine/index.html)
+=======
+1. [Fun with HTML Canvas](./solutions/day-eight/index.html)
+>>>>>>> ec6ba96249c6e9ad37ffa604ae550d6c82d1d12b
