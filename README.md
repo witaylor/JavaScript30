@@ -19,3 +19,4 @@ Use the list below to see the code, or [click here](https://witaylor.github.io/J
 1. [Fun with HTML Canvas](./solutions/day-eight/index.html)
 1. [Dev Tools Domination](./solutions/day-nine/index.html)
 1. [Hold Shift and Check Multiple Checkboxes](./solutions/day-ten/index.html)
+1. [Custom Video Player](./solutions/day-eleven/index.html)
