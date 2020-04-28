@@ -1,0 +1,33 @@
+.hidden {
+  display: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 678px;
+  margin: 4em auto;
+
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.guess-container {
+  margin: 2em 0;
+}
+
+.completed {
+  background-color: rgb(143, 240, 143);
+  border-radius: 10px;
+  padding: 1em 2em;
+
+  font-size: 24px;
+}
