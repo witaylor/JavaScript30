@@ -21,3 +21,4 @@ Use the list below to see the code, or [click here](https://witaylor.github.io/J
 1. [Hold Shift and Check Multiple Checkboxes](./solutions/day-ten/index.html)
 1. [Custom Video Player](./solutions/day-eleven/index.html)
 1. [Key Sequence Detection](./solutions/day-twelve/index.html)
+1. [Slide in on Scroll](./solutions/day-thirteen/index.html)
