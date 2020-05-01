@@ -23,3 +23,4 @@ Use the list below to see the code, or [click here](https://witaylor.github.io/J
 1. [Key Sequence Detection](./day-twelve)
 1. [Slide in on Scroll](./day-thirteen)
 1. [JS Reference vs Copy](./day-fourteen)
+1. [Local Storage](./day-fifteen)
