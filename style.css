@@ -9,9 +9,7 @@
 
 html,
 body {
-  font-family: 'Josefin Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
-    'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 16px;
+  font-family: 'Josefin Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #ffffff;
 }
 
@@ -42,11 +40,7 @@ body {
 }
 
 .intro-container a {
-  background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0) 50%,
-    rgb(255, 201, 65) 50%
-  );
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, rgb(255, 201, 65) 50%);
   color: black;
   padding: 0 0.2em;
   text-decoration: none;
@@ -156,6 +150,12 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
+}
+
+footer {
+  margin: 1.6rem 0;
+  width: 100%;
+  text-align: center;
 }
 
 @keyframes float {

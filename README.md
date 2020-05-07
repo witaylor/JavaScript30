@@ -24,3 +24,8 @@ Use the list below to see the code, or [click here](https://witaylor.github.io/J
 1. [Slide in on Scroll](./day-thirteen)
 1. [JS Reference vs Copy](./day-fourteen)
 1. [Local Storage](./day-fifteen)
+1. [Mouse Move Shadow](./day-sixteen)
+1. [Sort without Articles](./day-seventeen)
+1. [Adding Up Times with Reduce](./day-eighteen)
+1. [Webcam Fun](./day-nineteen)
+1. [Speech Detection](./day-twenty)
